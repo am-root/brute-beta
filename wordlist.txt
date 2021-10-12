@@ -1,0 +1,11 @@
+.php
+cgi-bin
+images
+admin
+includes
+search
+.html
+cache
+login
+modules
+webhp
